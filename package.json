@@ -7,7 +7,8 @@
     "axios": "^0.21.1",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "mongoose": "^5.11.13"
+    "mongoose": "^5.11.13",
+    "moongoose": "0.0.5"
   },
   "devDependencies": {},
   "scripts": {
@@ -17,5 +18,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeloVicG/MERN-Product_Manager_part1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MeloVicG/MERN-Product_Manager_part1/issues"
+  },
+  "homepage": "https://github.com/MeloVicG/MERN-Product_Manager_part1#readme",
   "description": ""
 }
